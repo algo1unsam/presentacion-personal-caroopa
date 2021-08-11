@@ -10,6 +10,7 @@ Puedo resumir mis **intereses** mirando mi inicio de cualquier red social:
 - Comida.  
 - Café.  
 - Maquillaje.  
+  
 Lo único interesante en vida es entrar a YouTube, ir de arriba abajo revisando recomendaciones e irme porque no hay nada bueno. Posteriormente, meterme a Twitch buscando consuelo, ver que nadie de los que sigo está online, y buscar consuelo en Instagram. Este ciclo se repite mínimo 10 veces por día.  
 Si ninguna de esas cosas sirve, puedo probar con algún juego en el que mi cerebro se canse después de 1 hora. Mis favoritos son:  
 - Silent Hill 2 y 3.  
@@ -17,4 +18,5 @@ Si ninguna de esas cosas sirve, puedo probar con algún juego en el que mi cereb
 - The Binding of Isaac.  
 - Sims 4.  
 - Tetris. Sí, Tetris.  
+  
 Cuando era más chiquita podía recurrir a dibujar, hacer alguna manualidad, escribir historias. Pero con el tiempo fui quedándome sin imaginación. Ahora mi objetivo en la vida es aburrirme, hacer fiaca y graduarme. Y no, no sé qué carajo voy a hacer después de eso. Es problema para la Caro del futuro.  
