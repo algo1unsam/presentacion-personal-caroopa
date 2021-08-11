@@ -21,4 +21,7 @@ Si ninguna de esas cosas sirve, puedo probar con algún juego en el que mi cereb
 - Sims 4.  
 - Tetris.  
   
-Cuando era más chiquita podía recurrir a dibujar, hacer alguna manualidad, escribir historias. Pero con el tiempo fui quedándome sin imaginación. Ahora mi objetivo en la vida es aburrirme, hacer fiaca y graduarme. Y no, no sé qué carajo voy a hacer después de eso. Es problema para la Caro del futuro.  
+Cuando era más chiquita podía recurrir a dibujar, hacer alguna manualidad, escribir historias. Pero con el tiempo fui quedándome sin imaginación. Ahora mi objetivo en la vida es aburrirme, hacer fiaca y graduarme. Y no, no sé qué carajo voy a hacer después de eso. Es problema para la Caro del futuro. 
+  
+Como no me gustan las presentaciones, tampoco me gustan las fotos. Pero acá va una por el bien del TP0.  
+![foto](foto.jpg)
