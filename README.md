@@ -1,7 +1,7 @@
 # Carolina Denisse Paleari #  
   
 Tengo **22 años**.   
-Ya no se me ocurre qué más decir. Odio las presentaciones. Odio este TP.  
+Ya no se me ocurre qué más decir. Odio las presentaciones. ~~Odio este TP~~.  
   
 Estudio *programación informática en la UNSAM*. Me encanta todo lo esté relacionado con matemática, lógica y computación. Mis segundos amores son el lenguaje musical y canto.  
 Tengo el sueño más deforme del universo. Puedo variar de despertarme a las 10 de la mañana a despertarme a las 8 de la noche en menos de 2 semanas.  
@@ -24,4 +24,4 @@ Si ninguna de esas cosas sirve, puedo probar con algún juego en el que mi cereb
 Cuando era más chiquita podía recurrir a dibujar, hacer alguna manualidad, escribir historias. Pero con el tiempo fui quedándome sin imaginación. Ahora mi objetivo en la vida es aburrirme, hacer fiaca y graduarme. Y no, no sé qué carajo voy a hacer después de eso. Es problema para la Caro del futuro. 
   
 Como no me gustan las presentaciones, tampoco me gustan las fotos. Pero acá va una por el bien del TP0.  
-<img src="foto.jpg" width = "300 px">
+<img src="foto.jpg" align = "center" width = "300 px">
