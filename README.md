@@ -1,7 +1,6 @@
 # Carolina Denisse Paleari #  
   
-Tengo **22 años**.   
-Ya no sé qué más decir.    
+Tengo **22 años**.    
   
 Estudio *programación informática* en la UNSAM. Me encanta todo lo esté relacionado con matemática, lógica y computación. Mis segundos amores son el lenguaje musical y canto.  
 Tengo el sueño más deforme del universo. Puedo variar de despertarme a las 10 de la mañana a despertarme a las 8 de la noche en menos de 2 semanas.  
