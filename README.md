@@ -1,6 +1,6 @@
 # Carolina Denisse Paleari #  
 
-<div class = "pull-left"> <img src = "foto.jpg" width = "300 px"> </div>
+<div class = "pull-left"> <img src = "foto.jpg" width = "300 px"/> </div>
   
 Tengo **22 años**.  
   
